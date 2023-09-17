@@ -13,11 +13,23 @@ namespace MVCFirstApp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string ID)
+        {
+            string seeView = ID;
+            if (seeView == "cit")
+                return View("cit218");
+            else
+                return View();
+        }
+        public IActionResult cit218()
         {
             return View();
         }
-
+        //GET: Home
+        public string myIndex()
+        {
+            return "Scott's Awesome Index";
+        }
         public IActionResult Privacy()
         {
             return View();

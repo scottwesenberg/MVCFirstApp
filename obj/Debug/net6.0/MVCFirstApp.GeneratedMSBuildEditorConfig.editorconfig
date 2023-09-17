@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT218WebAppDev\week2\MVCFirstApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/wesen/OneDrive/NMC - SCHOOLING/NMC_CLASSES/CIT218WebAppDev/week2/MVCFirstApp/Views/Home/cit218.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjaXQyMTguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/wesen/OneDrive/NMC - SCHOOLING/NMC_CLASSES/CIT218WebAppDev/week2/MVCFirstApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
